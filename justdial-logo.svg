@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="160" height="40">
+  <style>
+    .jd-text-blue { font-family: 'Outfit', 'Inter', 'Ubuntu', 'Trebuchet MS', sans-serif; font-weight: 800; font-size: 42px; fill: #0076D0; }
+    .jd-text-orange { font-family: 'Outfit', 'Inter', 'Ubuntu', 'Trebuchet MS', sans-serif; font-weight: 800; font-size: 42px; fill: #FF6E00; }
+    .jd-reg { font-family: sans-serif; font-size: 11px; fill: #1E293B; font-weight: bold; }
+  </style>
+  <text x="5" y="44" class="jd-text-blue">Just</text>
+  <text x="88" y="44" class="jd-text-orange">dial</text>
+  <text x="175" y="20" class="jd-reg">®</text>
+</svg>
